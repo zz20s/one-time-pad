@@ -10,7 +10,7 @@ class OneTimePadGUI:
 
         self.root.title("One-Time Pad")
         self.root.geometry("900x700")
-
+        self.root.iconbitmap("gs_vernam.ico")
         self.create_widgets()
 
     def create_widgets(self):
