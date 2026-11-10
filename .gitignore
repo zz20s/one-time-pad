@@ -1,3 +1,14 @@
-# Python bytecode cache
+# Python cache
 __pycache__/
 *.py[cod]
+
+# PyInstaller
+build/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
